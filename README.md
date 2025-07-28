@@ -1,5 +1,5 @@
 # CNN-Model-for-MNIST-Dataset
-This project uses a Convolutional Neural Network (CNN) built with Tensorflow to classift handwritten digits from the MNIST dataset. 
+This project uses a Convolutional Neural Network (CNN) built with Keras to classift handwritten digits from the MNIST dataset. 
 
 ## Dataset
 Kaggle MNIST Handwritten Digit Dataset: https://www.kaggle.com/datasets/hojjatk/mnist-dataset
