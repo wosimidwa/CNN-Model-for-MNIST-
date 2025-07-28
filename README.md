@@ -14,5 +14,6 @@ Kaggle MNIST Handwritten Digit Dataset: https://www.kaggle.com/datasets/hojjatk/
 
 ## to run
 '''bash 
-pip install -r requirements.txt
-python train_model.py
+pip install -r requirements.txt \n
+python keras_model.py \n
+python handwritten_model.py
