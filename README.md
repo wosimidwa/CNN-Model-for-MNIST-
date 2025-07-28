@@ -8,8 +8,6 @@ Kaggle MNIST Handwritten Digit Dataset: https://www.kaggle.com/datasets/hojjatk/
 ## Structure
 - 'keras_model.py'
 - 'handwritten_model.py'
-- 'evaluate_model.py'
-- 'model/'
 - 'requirements.txt'
 
 ## to run
